@@ -5,12 +5,5 @@
   </head>
   <body>
     <h1>Hello World!</h1>
-
-    <ul>
-        <li>Red</li>
-        <li>Yellow</li>
-        <li>Orange</li>
-    </ul>
-    
   </body>
 </html>
