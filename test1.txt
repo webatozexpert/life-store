@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sldhlsdhh jskdhgk
 sdfghjh 
 sdjfgdshg
@@ -9,3 +10,9 @@ djfsdhfsdkfjhdskjv
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 sdfffffffffffffffffffffffffffffffffgsdtfgre
 sdddddddddddddddddddddddddddddddddddddddfg
+=======
+
+Edit file 2023
+Edit file 2023
+Edit file 2023
+>>>>>>> 72f4a6e5dbf10a70992e5bbfd44e287fe74e60c7
